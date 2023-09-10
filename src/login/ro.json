@@ -1,0 +1,10 @@
+{
+    "loginPage": {
+      "title": "Conectare",
+      "usernameLabel": "Nume de utilizator",
+      "passwordLabel": "Parolă",
+      "loginButton": "Conectare",
+      "registerLink": "Nu ai un cont? Înregistrează-te"
+    }
+}
+  

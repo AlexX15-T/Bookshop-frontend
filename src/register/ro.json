@@ -1,0 +1,10 @@
+{
+  "registerPage": {
+    "title": "Înregistrare",
+    "usernameLabel": "Nume de utilizator",
+    "passwordLabel": "Parolă",
+    "confirmPasswordLabel": "Confirmă parola",
+    "registerButton": "Înregistrare",
+    "loginLink": "Ai deja un cont? Conectează-te aici."
+  }
+}

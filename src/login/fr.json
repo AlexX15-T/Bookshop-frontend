@@ -1,0 +1,10 @@
+{
+    "loginPage": {
+      "title": "Connexion",
+      "usernameLabel": "Nom d'utilisateur",
+      "passwordLabel": "Mot de passe",
+      "loginButton": "Connexion",
+      "registerLink": "Vous n'avez pas de compte ? S'inscrire"
+    }
+  }
+  

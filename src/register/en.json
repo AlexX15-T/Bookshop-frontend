@@ -1,0 +1,10 @@
+{
+  "registerPage": {
+    "title": "Register",
+    "usernameLabel": "Username",
+    "passwordLabel": "Password",
+    "confirmPasswordLabel": "Confirm Password",
+    "registerButton": "Register",
+    "loginLink": "Already have an account? Login here."
+  }
+}
